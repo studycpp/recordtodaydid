@@ -1,6 +1,6 @@
 {
-  "version_code":100,
-  "version_filename":"recordtodaydid_v1.00.apk",
-  "version_info":"v1.00\n1.Initial version released, thank you for your support",
+  "version_code":105,
+  "version_filename":"recordtodaydid_v1.05.apk",
+  "version_info":"v1.05\n1.Correct the issue of project not updating when the system time changes",
   "download_url":"https://raw.githubusercontent.com/studycpp/recordtodaydid/main/recordtodaydid.apk"
 }
